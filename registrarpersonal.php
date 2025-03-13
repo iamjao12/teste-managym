@@ -44,8 +44,8 @@
         <input type="submit" value="Login">
     </form>
     <div>
-        <label>Ainda não tem uma conta?</label>
-        <a href="registrarpersonal.php">Cadastrar-se</a>
+        <label>Já possui uma conta?</label>
+        <a href="loginpersonal.php">Fazer Login</a>
     </div>
 </body>
 </html>
